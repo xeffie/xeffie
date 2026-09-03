@@ -56,4 +56,13 @@
   </a>
 </p>
 
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/xeffie/xeffie/output/github-snake.svg"
+    alt="Contribution snake"
+    width="95%"
+  />
+</p>
 
