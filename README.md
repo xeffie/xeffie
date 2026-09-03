@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  ────── ⋆⋅♡⋅⋆ ──────
+  <img src="footer.gif" width="350" alt="animated footer">
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  I enjoy building things, figuring out why they break,
-  and learning something new in the process.
+  I enjoy turning ideas into working software, understanding how the pieces
+  fit together, and figuring out why things break when they inevitably do.
 </p>
 
 <br>
 <p align="center">
-  ────── ⋆⋅♡⋅⋆ ──────
+  ─── ⋆⋅♡⋅⋆ ───
 </p>
 
 <p align="center">
@@ -30,30 +30,42 @@
 </p>
 
 <p align="center">
-  ────── ⋆⋅♡⋅⋆ ──────
+  ─── ⋆⋅♡⋅⋆ ───
 </p> 
 
-<h3 align="center">✦ Tech & tools ✦</h3>
+<p align="center">
+  <b>✦ Tech & tools ✦</b>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,aws,docker,linux,git,github,githubactions,maven,idea&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,aws,docker,linux,git,github,githubactions,maven,idea,bash&perline=8" />
 </p>
 
 <br>
 <p align="center">
-  ────── ⋆⋅♡⋅⋆ ──────
+  ─── ⋆⋅♡⋅⋆ ───
 </p>
 
-<h3 align="center">✦ Let's connect ✦</h3>
+<p align="center">
+  <b>✦ Let's connect ✦</b>
+</p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/josefinvingeskog/">
     <img src="https://img.shields.io/badge/LinkedIn-E8A4C9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:josefin.vingeskog@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D7BDEB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<br>
+<p align="center">
+  <img src="footer.gif" width="350" alt="animated footer">
+</p>
+<p align="center">
+  <sub><i>built with curiosity, caffeine &amp; a lot of debugging </i>♡</sub>
 </p>
 
 <br>
