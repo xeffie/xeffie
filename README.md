@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🐍 Currently exploring <b>Python & Machine Learning</b><br>
+  🐍 Currently exploring: <b>Python & Machine Learning</b><br>
 </p>
 
 <p align="center">
